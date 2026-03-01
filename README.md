@@ -11,15 +11,6 @@
 
 ---
 
-## About Me
-
-CS student @ UMass Amherst, passionate about innovation in the CS space and creating unique projects. 
-
-- **Location**: Framingham, Massachusetts
-- **Education**: University of Massachusetts Amherst (CS)  
-
----
-
 ## Tech Stack
 
 ### Languages
