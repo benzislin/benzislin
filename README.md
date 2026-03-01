@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Ben Zislin
+# Ben Zislin
 
 **CS @ UMass Amherst** | Full-Stack Developer | Eagle Scout
 
