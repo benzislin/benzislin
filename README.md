@@ -33,7 +33,6 @@ CS student @ UMass Amherst, passionate about innovation in the CS space and crea
 
 ### Frameworks & Libraries
 ![JUnit](https://img.shields.io/badge/junit-%23E33332?style=for-the-badge&logo=junit5&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
 ### Tools & DevOps
